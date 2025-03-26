@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+.python-version
+
+# Transcript output files
+*.json
+*.srt
+*.vtt
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db 
+.sesskey
